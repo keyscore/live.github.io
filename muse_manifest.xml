@@ -1,0 +1,18 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="keyscore.github.io" resolutions="1x" timestamp="1503752326989">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="483620451" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
+    <file name="museutils.js" crc="531812214" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="connectivity.jpg" crc="274872769" ref="index"/>
+  </folder>
+  <file name="index.html" crc="305417829" seo="true" mt="1503752243113" redirect="true"/>
+</manifest>
